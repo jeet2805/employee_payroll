@@ -1,0 +1,8 @@
+Salary Slip for jeet (ID: 102)
+==============================
+Hourly Rate: 1600.0
+Hours Worked: 40.0
+Gross Salary: 64000.00
+Tax Deducted: 12800.00
+Net Salary: 51200.00
+==============================
